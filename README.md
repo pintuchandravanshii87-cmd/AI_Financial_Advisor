@@ -102,9 +102,9 @@ Invoke-RestMethod -Uri "http://127.0.0.1:8000/ingest" -Method Post -ContentType 
 
 ## Demo video
 
-<video src="https://github.com/pintuchandravanshii87-cmd/AI_Financial_Advisor/raw/refs/heads/main/demo-video.mp4" controls autoplay muted loop playsinline width="100%">
-  <a href="https://github.com/pintuchandravanshii87-cmd/AI_Financial_Advisor/raw/refs/heads/main/demo-video.mp4">Watch or download the project demo</a>
-</video>
+![Autoplaying project preview](media/demo-preview.gif)
+
+[Watch or download the full demo video](demo-video.mp4).
 
 ## Privacy and security
 
