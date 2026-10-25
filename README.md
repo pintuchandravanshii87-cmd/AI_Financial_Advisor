@@ -22,6 +22,7 @@ Frontend/
   package.json
   public/icon.png
   src/
+demo-video.mp4
 README.md
 ```
 
@@ -101,7 +102,7 @@ Invoke-RestMethod -Uri "http://127.0.0.1:8000/ingest" -Method Post -ContentType 
 
 ## Demo video
 
-A project walkthrough video will be added here.
+[Watch the project demo](https://github.com/pintuchandravanshii87-cmd/AI_Financial_Advisor/raw/refs/heads/main/demo-video.mp4).
 
 ## Privacy and security
 
